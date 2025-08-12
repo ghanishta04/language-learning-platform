@@ -70,6 +70,6 @@ An interactive web application designed to facilitate language learning speciall
 4. Edit Profile: Update your personal information as needed.
 
 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 Developed by Ghanishta Mishra(ghanishta04), Mahima Singh(Harleyquinn-05), Ayushi Bhui(ayu7714). 
