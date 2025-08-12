@@ -1,6 +1,8 @@
 # lanuage-learning-plaform
 An interactive web application designed to facilitate language learning through a user-friendly interface. It offers multiple language courses, user authentication, and personalized dashboards.
 
+![image alt](https://github.com/ghanishta04/lanuage-learning-plaform/blob/824af0bc2ed6a720951a9f502335c80bf92b1574/Screenshots/Screenshot.jpeg)
+
 ✨ Features
 - **🔑 User Authentication**
   - Login and signup pages with secure database storage.
@@ -70,4 +72,4 @@ An interactive web application designed to facilitate language learning through 
 📄 License
 This project is licensed under the MIT License.
 
-Developed by Ghanishta Mishra, Mahima Singh, Ayushi Bhui. 
+Developed by Ghanishta Mishra(ghanishta04), Mahima Singh(Harleyquinn-05), Ayushi Bhui(ayu7714). 
