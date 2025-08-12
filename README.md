@@ -67,9 +67,6 @@ An interactive web application designed to facilitate language learning through 
 3. Enroll in Courses: Browse available language courses and enroll.
 4. Edit Profile: Update your personal information as needed.
 
-📸 Screenshots
-
-
 📄 License
 This project is licensed under the MIT License.
 
