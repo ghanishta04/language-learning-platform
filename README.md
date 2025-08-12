@@ -24,6 +24,7 @@ An interactive web application designed to facilitate language learning through 
   - Easy access to enrolled courses.
 
 🛠️ Tech Stack
+
 -Frontend: HTML, CSS, JavaScript
 
 -Backend: PHP
