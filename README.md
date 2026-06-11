@@ -1,7 +1,7 @@
 # language-learning-platform
 An interactive web application designed to facilitate language learning specially Indian, through a user-friendly interface. It offers multiple language courses, user authentication, and personalized dashboards.
 
-![image alt](https://github.com/ghanishta04/lanuage-learning-plaform/blob/824af0bc2ed6a720951a9f502335c80bf92b1574/Screenshots/Screenshot.jpeg)
+<img width="829" height="538" alt="image" src="https://github.com/user-attachments/assets/ee083334-0265-4799-9b1f-ce0b25e37c9b" />
 
 ✨ Features
 - **🔑 User Authentication**
